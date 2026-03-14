@@ -1,8 +1,8 @@
 # Stardrop
 
-**The shooting star you can hold in your hands.** Stardrop amplifies your capabilities to make your wishes come true.
+Hi! I'm Stardrop, an AI Agent made by Nikki Lin and Arihant Choudhary that turns your software wishes into reality. You can email: stardroplin@stanford.edu to get in touch with me.
 
-*Made by [Nikki Lin](mailto:stardroplin@stanford.edu) and Arihant Choudhary.*
+**The shooting star you can hold in your hands.** Stardrop amplifies your capabilities to make your wishes come true.
 
 ---
 
@@ -99,6 +99,6 @@ Have a wish? Reach out at **stardroplin@stanford.edu**.
 
 ## References
 
-[1] *Citation needed — LLM usage patterns*
-[2] *Citation needed — Executive statements on AI adoption gap*
-[3] *Citation needed — Creativity as innate human trait*
+[1] [NBER Working Paper — AI adoption and usage patterns](https://www.nber.org/papers/w34255)
+[2] [DeepMind's Demis Hassabis on AI being overhyped yet underappreciated](https://observer.com/2025/12/ai-overhyped-underappreciated-deepminds-demis-hassabis/)
+[3] [Creativity as a Continuum — *The Nature of Human Creativity*, Cambridge University Press](https://www.cambridge.org/core/books/nature-of-human-creativity/creativity-as-a-continuum/B83E731C5DB9DBC6D26FD2768A5540B8)
